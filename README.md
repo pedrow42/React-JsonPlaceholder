@@ -24,7 +24,10 @@ A simple react exercise using the fake api "JSON Placeholder". For the API manag
     # clone repository
     $ git clone https://github.com/pedrow42/React-JsonPlaceholder
 
-    ## initializing project
+    # install dependencies
+    $ npm install
+
+    # initializing project
     $ npm run dev
 
 ```
